@@ -18,27 +18,9 @@ git clone https://github.com/Lionhearted1/aiZEN
 npm i
 ```
 
-**4. Add OpenAI API Key into .en.local file**
-
-```bash
-NEXT_PUBLIC_OPENAI_API_KEY=<your_api_key>
-
-```
-
-**3. Create .env.local file**
-
-```bash
-touch .env.local
-```
-
-
-
-
-**5. Run App**
+**3. Run App**
 
 ```bash
 npm run dev
 ```
-
-
 
