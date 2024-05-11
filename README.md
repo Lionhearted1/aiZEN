@@ -1,8 +1,8 @@
-# AI Code Translator
+# aiZEN
 
 Use AI to translate code from one language to another.
 
-![AI Code Translator](./public/screenshot.png)
+![aiZEN](./public/screenshot.png)
 
 ## Running Locally
 
